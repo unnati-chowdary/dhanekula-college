@@ -248,7 +248,6 @@
         .about-text {
             flex: 1;
         }
-
         .about-text h3 {
             font-size: 1.8rem;
             color: #0056b3;
